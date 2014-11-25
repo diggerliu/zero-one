@@ -1,4 +1,6 @@
 zero-one
 ========
 
-a server base netty.
+a http server base netty.
+
+permanent upgrading...
